@@ -1,10 +1,10 @@
 # 📊 Análise de Dados - Cancelamento de Clientes
 
-Este projeto tem como objetivo analisar um conjunto de dados de uma empresa fictícia de serviços para entender os principais fatores que levam ao cancelamento de clientes (churn).
+Este projeto tem como objetivo analisar um conjunto de dados de uma empresa fictícia de serviços para entender os principais fatores que levam ao cancelamento de clientes.
 
 ## 🔍 Objetivos
 
-- Realizar análise exploratória dos dados (EDA)
+- Realizar análise exploratória dos dados 
 - Identificar padrões e insights sobre o comportamento dos clientes
 - Gerar visualizações que ajudem a entender o churn
 - Apoiar estratégias para retenção de clientes
